@@ -10,5 +10,5 @@ disable_firewall=yes
 additional_components=uefi.zip
 primary_keyboard_layout=tr
 secondary_keyboard_layout=tr
-screen_settings=HDMI-0:1920x1080:60.00:normal:right:normal
-homepage=https://picsum.photos|https://randomwordgenerator.com/picture.php
+screen_settings=HDMI-0:1920x1080:60.00:normal
+homepage=https://picsum.photos|https://www.generatormix.com/random-image-generator
