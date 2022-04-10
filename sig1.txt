@@ -11,3 +11,4 @@ secondary_keyboard_layout=tr
 refresh_webpage=10
 homepage=https://kernel.org|http://porteus-kiosk.org
 disable_firewall=yes
+additional_components=uefi.zip
