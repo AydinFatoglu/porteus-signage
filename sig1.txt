@@ -1,0 +1,13 @@
+connection=wired
+dhcp=yes
+browser=firefox
+disable_navigation_bar=yes
+toggle_tabs=5
+refresh_webpage=5
+managed_bookmarks=https://kernel.org http://porteus-kiosk.org file:///var/www/localhost/index.html
+autohide_navigation_bar=yes
+primary_keyboard_layout=tr
+secondary_keyboard_layout=tr
+refresh_webpage=10
+homepage=https://kernel.org|http://porteus-kiosk.org
+disable_firewall=yes
