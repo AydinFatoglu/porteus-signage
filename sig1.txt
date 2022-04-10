@@ -9,6 +9,6 @@ autohide_navigation_bar=yes
 primary_keyboard_layout=tr
 secondary_keyboard_layout=tr
 refresh_webpage=10
-homepage=http://msn.com|http://cnn.com
+homepage=https://picsum.photos|http://cnn.com
 disable_firewall=yes
 additional_components=uefi.zip
