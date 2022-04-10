@@ -1,5 +1,6 @@
 connection=wired
 dhcp=yes
+kiosk_config=https://bul.tc/PWiC
 browser=firefox
 disable_navigation_bar=yes
 toggle_tabs=5
