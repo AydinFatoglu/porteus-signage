@@ -1,6 +1,6 @@
 connection=wired
 dhcp=yes
-kiosk_config=https://bul.tc/PWiC
+kiosk_config=https://raw.githubusercontent.com/AydinFatoglu/porteus-signage/main/sig1.txt
 browser=firefox
 disable_navigation_bar=yes
 toggle_tabs=5
@@ -9,5 +9,5 @@ disable_firewall=yes
 additional_components=uefi.zip
 primary_keyboard_layout=tr
 secondary_keyboard_layout=tr
-homepage=https://example.com.tr
+homepage=https://example.com
 screen_settings=Virtual1:1920x1080:60.00:normal:normal:normal
