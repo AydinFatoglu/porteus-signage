@@ -9,5 +9,5 @@ disable_firewall=yes
 additional_components=uefi.zip
 primary_keyboard_layout=tr
 secondary_keyboard_layout=tr
-homepage=https://example.com
+homepage=https://thispersondoesnotexist.com
 screen_settings=Virtual1:1920x1080:60.00:normal:normal:normal
